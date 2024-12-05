@@ -1,0 +1,5 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  speech_to_text: ^5.3.0
+  flutter_tts: ^3.4.2

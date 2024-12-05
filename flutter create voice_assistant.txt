@@ -1,0 +1,2 @@
+flutter create voice_assistant
+cd voice_assistant
